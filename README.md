@@ -15,7 +15,7 @@ Soy programador junior enfocado en el backend trabajo rápido , me gusta resolve
 const josue = {
   pronouns: "he",
   code: [HTML, CSS, Java],
-  tools: [MySql, GitHub, Spring Boot, Thymeleaf, Bootstrap],
+  tools: [MySql, GitHub, Spring Boot, Thymeleaf, Bootstrap,Flutter],
   architecture: ["API Rest", "MVC", "design system pattern"],
   techCommunities: {
                         speaker: "Latinity",
