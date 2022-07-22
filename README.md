@@ -1,13 +1,13 @@
 
-<h2>System.out.println("Hola Mundo, 👋 mi nombre es Josué!");</h2>
+<h2>System.out.println("Hello World, 👋 my name is Josué!");</h2>
 
 <p></br>Backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-Soy programador junior enfocado en el backend trabajo rápido , me gusta resolver problemas y afrontar nuevos desafíos. Me encanta conectarme con diferentes personas, así que si quieres saludar, ¡estaré feliz de conocerte más! :)
+I am a programmer focused on the backend, I work fast, I like to solve problems and face new challenges. I love connecting with different people, so if you want to say hi, I'd be happy to get to know you more! :)
 
-- 📫  Cómo contactarme: josue1dario2solis3@gmail.com 
-- 💼  Mi [Linkedin](https://www.linkedin.com/in/josue-dario-solis/) personal.
+- 📫  Mail : josue1dario2solis3@gmail.com 
+- 💼  My personal [Linkedin](https://www.linkedin.com/in/josue-dario-solis/) 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -19,7 +19,7 @@ const josue = {
   architecture: ["API Rest", "MVC", "design system pattern"],
   techCommunities: {
                         speaker: "Latinity",
-                        mentors: ["Egg Educación", "Udemy", "AlkemyAcademy", "Youtube", "Stackoverflow"]
+                        mentors: ["Egg Education", "Udemy", "AlkemyAcademy", "Youtube", "Stackoverflow", "baeldung"]
                       },
   challenges: "I am doing the #Alkemy challenge and #Semillero (Quinto Impacto)",
   hobbys: ["Reading books", "Guitar", "Play CSGO"]
