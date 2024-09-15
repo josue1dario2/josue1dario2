@@ -14,12 +14,12 @@ I am a programmer focused on the backend, I work fast, I like to solve problems 
 ```javascript
 const josue = {
   pronouns: "he",
-  code: [HTML, CSS, Java],
-  tools: [MySql, GitHub, Spring Boot, Thymeleaf, Bootstrap,Flutter],
+  code: [Java,JavaScript],
+  tools: [MySql, Spring Boot, Flutter],
   architecture: ["API Rest", "MVC", "design system pattern"],
   techCommunities: {
                         speaker: "Latinity",
-                        mentors: ["Egg Education", "Udemy", "AlkemyAcademy", "Youtube", "Stackoverflow", "baeldung"]
+                        mentors: ["Egg Education", "Udemy", "AlkemyAcademy", "Stackoverflow", "baeldung"]
                       },
   challenges: "I am doing the #Alkemy challenge and #Semillero (Quinto Impacto)",
   hobbys: ["Reading books", "Guitar", "Play CSGO"]
